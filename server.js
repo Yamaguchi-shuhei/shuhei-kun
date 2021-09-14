@@ -5,8 +5,8 @@ const line = require('@line/bot-sdk');
 const PORT = process.env.PORT || 3000;
 
 const config = {
-    channelSecret: '作成したBOTのチャンネルシークレット',
-    channelAccessToken: '作成したBOTのチャンネルアクセストークン'
+    channelSecret: '23b6eedcef8ec6b2f40963ae1142d2f0',
+    channelAccessToken:'O0lxThzsva0GjbmGw0oseJ1KXiLqwF6HdMa7907ID0urYG58BkdZDBQSJ4l990psN4e+EdEwRtfP4I8WOjjOQwqwsDueEWkHIodR5NrwwzKpq47xDuOQY85sappDtpGzPl406o+B+BZj2JzCn6mHhwdB04t89/1O/w1cDnyilFU'
 };
 
 const app = express();
